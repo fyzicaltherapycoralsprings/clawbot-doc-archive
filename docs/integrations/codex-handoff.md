@@ -1,0 +1,1 @@
+Codex is the reasoning layer. OpenClaw is execution. Always diagnose primary layer first.
